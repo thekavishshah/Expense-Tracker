@@ -58,3 +58,24 @@ Open your browser and navigate to http://127.0.0.1:5000 to view the app.
 
 The application uses an SQLite database. If expenses.db does not exist, it will be created automatically when you start the app.
 
+
+# Usage
+
+**Adding an Expense**
+
+Go to the "Add Expense" page.
+
+Fill in the details for the expense: title, amount, category, and date.
+
+Click "Add Expense" to save.
+
+**Viewing and Grouping Expenses**
+
+Visit the "Group by Category" page to see expenses categorized by type.
+
+Use the "Go Back" button to return to the main page.
+
+**Editing and Deleting Expenses**
+
+Use the options in the expense list to edit or delete an entry.
+
